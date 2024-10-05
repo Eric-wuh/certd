@@ -151,7 +151,7 @@ docker compose up -d
 * 设置每天自动运行，当证书过期前20天，会自动重新申请证书并部署
 
 
-## 七、不同平台的设置说明
+## 七、不同平台的设置说明 
 
 * [Cloudflare](./doc/cf/cf.md)
 * [腾讯云](./doc/tencent/tencent.md)
